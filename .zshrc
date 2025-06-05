@@ -9,7 +9,7 @@ DISABLE_MAGIC_FUNCTIONS="true"
 
 HIST_STAMPS="yyyy-mm-dd"
 
-plugins=(git docker kubectl minikube fluxcd)
+plugins=(git docker kubectl minikube fluxcd zsh-syntax-highlighting zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
